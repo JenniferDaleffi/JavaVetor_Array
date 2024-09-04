@@ -1,5 +1,4 @@
 # JavaVetor_Array
-Claro! Vou criar um exemplo de README para um projeto Java que inclui uma classe `Carro` e utiliza vetores e `ArrayList`. O README cobrirá uma breve descrição do projeto, como configurar o ambiente, e como executar o projeto.
 
 ---
 
